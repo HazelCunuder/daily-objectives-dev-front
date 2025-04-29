@@ -8,10 +8,10 @@
 * [x] S'interroger sur son mode de fonctionnement en termes d'apprentissage
 * [x] Comprendre le métier de développeur, aperçu sur le mindset du dev
 
-* [ ] Configuration de son environnement de travail
-  * [ ] Mise à jour OS (Linux, Windows, Mac)
-  * [ ] Installation (Discord)
-  * [ ] Installation navigateur (Developper Edition)
+* [x] Configuration de son environnement de travail
+  * [x] Mise à jour OS (Linux, Windows, Mac)
+  * [x] Installation (Discord)
+  * [x] Installation navigateur (Developper Edition)
 * [ ] S'assurer auprès de son binôme que les bases soient bien comprise de :
   * [ ] commandes Linux
   * [ ] commande Git
