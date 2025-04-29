@@ -12,7 +12,7 @@
   * [x] Mise à jour OS (Linux, Windows, Mac)
   * [x] Installation (Discord)
   * [x] Installation navigateur (Developper Edition)
-* [ ] S'assurer auprès de son binôme que les bases soient bien comprise de :
-  * [ ] commandes Linux
-  * [ ] commande Git
-  * [ ] Github (pull requests, conventions, etc …)
+* [x] S'assurer auprès de son binôme que les bases soient bien comprise de :
+  * [x] commandes Linux
+  * [x] commande Git
+  * [x] Github (pull requests, conventions, etc …)
