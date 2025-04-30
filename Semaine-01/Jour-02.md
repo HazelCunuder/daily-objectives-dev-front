@@ -18,10 +18,10 @@
   - [ ] qu'est-ce que le TC39
   - [ ] qu'est-ce que le ECMA-262
   - [ ] quelle est la version actuelle du standard ECMAScript ?
-- [ ] Comprendre le fonctionnement des variables en JavaScript (https://fr.javascript.info/variables)
-- [ ] Découvrir les types de données en JavaScript (https://fr.javascript.info/types)
-- [ ] Comprendre `Les conversions de types` en JavaScript (https://fr.javascript.info/type-conversions)
-- [ ] Comprendre les mécanismes des opérateurs mathématiques en JavaScript (https://fr.javascript.info/operators) :
-  - [ ] concaténation
-  - [ ] précédence des opérateurs
-  - [ ] préfix & postfix
+- [x] Comprendre le fonctionnement des variables en JavaScript (https://fr.javascript.info/variables)
+- [x] Découvrir les types de données en JavaScript (https://fr.javascript.info/types)
+- [x] Comprendre `Les conversions de types` en JavaScript (https://fr.javascript.info/type-conversions)
+- [x] Comprendre les mécanismes des opérateurs mathématiques en JavaScript (https://fr.javascript.info/operators) :
+  - [x] concaténation
+  - [x] précédence des opérateurs
+  - [x] préfix & postfix
