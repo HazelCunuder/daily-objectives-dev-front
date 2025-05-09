@@ -31,7 +31,7 @@ for (let row = 0; row < size; row++) {
             chessboard += "#";
         }
     }
-    chessboard += "\n"
+    chessboard += "\n";
 }
 
 console.log(chessboard)
