@@ -25,3 +25,23 @@ function reverseArray(array) {
     }
     return revArray;
 }
+console.log(reverseArray(["A", "B", "C"]));
+
+function reverseArrayInPlace(inPlace) {
+    let j = inPlace.length;
+    let tempArray = [];
+    
+    for (let i = 0; i < (j/2); i++) {
+        let temp = inPlace[i];
+        inPlace[i] = inPlace[j - 1 - i];
+        inPlace[j - 1 - i] = temp;
+    }
+}
+
+let arrayValue = [1, 2, 3, 4, 5];
+reverseArrayInPlace(arrayValue);
+
+console.log(arrayValue);
+
+// Most Useful: reverseArray, because it doesn't modify the original Array
+// Fastest: reverseArrayInPlace, does't create new array so more efficient.
