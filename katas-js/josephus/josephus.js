@@ -11,7 +11,7 @@ Given any `n,k>0`, find out which prisoner will be the final survivor.
 function josephus(n, k){
     let prisoners = [];
 
-    for (let i = 0; i < n; i++) {
+    for (let i = 1; i <= n-1; i++) {
         prisoners.push(i);
     }
     return prisoners;
