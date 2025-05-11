@@ -12,6 +12,9 @@ function josephus(n, k){
     let prisoners = [];
 
     for (let i = 0; i < n; i++) {
-        
+        prisoners.push(i);
     }
+    return prisoners;
 }
+
+console.log(josephus(5,2));
