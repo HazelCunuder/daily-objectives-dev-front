@@ -4,4 +4,4 @@
 
 ### Javascript :
 
-- [ ] Brief Katas JS
+- [x] Brief Katas JS
