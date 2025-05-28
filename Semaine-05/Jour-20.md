@@ -21,8 +21,8 @@
 - [x] Est-il préférable de l'installer en global sur la machine ou indépendémment sur chaque projet ?
 - [x] Qu'est ce que "Nodemon" :
   - [x] À quoi ça sert ?
-- [ ] Créer son premier "Hello World!" avec Node.
+- [x] Créer son premier "Hello World!" avec Node.
 
 ### TypeScript
 
-- [ ] Qu'est ce que TypeScript ?
+- [x] Qu'est ce que TypeScript ?
