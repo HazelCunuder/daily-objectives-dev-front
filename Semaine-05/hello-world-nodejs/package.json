@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-nodejs",
+  "version": "1.0.0",
+  "description": "A simple Hello World made with NodeJS",
+  "license": "ISC",
+  "author": "Hazel Cunuder",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
