@@ -25,9 +25,9 @@
 
 ### Créer et utiliser des composants
 
-- [ ] Comprendre le rôle du décorateur `@Component`
-- [ ] Utiliser un composant enfant dans `app.component.html`
-- [ ] Modifier le HTML, CSS et TS d’un composant
+- [x] Comprendre le rôle du décorateur `@Component`
+- [x] Utiliser un composant enfant dans `app.component.html`
+- [x] Modifier le HTML, CSS et TS d’un composant
 
 ### Lier HTML et TypeScript
 
