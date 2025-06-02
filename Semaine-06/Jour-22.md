@@ -3,9 +3,9 @@
 ## Lundi 02/06/2025
 
 ### Installer Angular et Angular CLI
-  - [ ] Installer Node.js (si non présent)
-  - [ ] Installer Angular CLI globalement : `npm install -g @angular/cli`
-  - [ ] Vérifier l’installation avec `ng version`
+  - [x] Installer Node.js (si non présent)
+  - [x] Installer Angular CLI globalement : `npm install -g @angular/cli`
+  - [x] Vérifier l’installation avec `ng version`
 
 ### Utiliser Angular CLI
   - [ ] Créer une application avec `ng new mon-app`
