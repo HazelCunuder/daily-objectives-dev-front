@@ -38,4 +38,4 @@
 
 ### Mini-exercice pratique
 
-- [ ] Créer un composant `HelloUserComponent` qui affiche un nom et un compteur de clics. Ajouter un champ d’input pour changer le nom (avec `[(ngModel)]`).
+- [x] Créer un composant `HelloUserComponent` qui affiche un nom et un compteur de clics. Ajouter un champ d’input pour changer le nom (avec `[(ngModel)]`).
