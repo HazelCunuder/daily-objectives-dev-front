@@ -13,15 +13,15 @@
 - [x] Créer une application avec `ng new mon-app`
 - [x] Comprendre les options proposées lors de la création (`SCSS`, routing, etc.)
 - [x] Lancer le serveur de développement avec `ng serve`
-- [ ] Générer un composant avec `ng generate component`
-- [ ] Générer un service avec `ng generate service`
+- [x] Générer un composant avec `ng generate component`
+- [x] Générer un service avec `ng generate service`
 - [x] Lister toutes les commandes disponibles avec `ng help`
 
 ### Explorer l’architecture d’un projet Angular
 
-- [ ] Comprendre le rôle des répertoires principaux (`src/`, `app/`, `assets/`, etc.)
-- [ ] Identifier les fichiers clés : `main.ts`, `app.module.ts`, `angular.json`
-- [ ] Découvrir l'architecture SPA (Single Page Application)
+- [x] Comprendre le rôle des répertoires principaux (`src/`, `app/`, `assets/`, etc.)
+- [x] Identifier les fichiers clés : `main.ts`, `app.module.ts`, `angular.json`
+- [x] Découvrir l'architecture SPA (Single Page Application)
 
 ### Créer et utiliser des composants
 
