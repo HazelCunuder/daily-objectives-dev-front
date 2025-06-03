@@ -21,21 +21,21 @@
 
 ### Formulaires avec `FormsModule`
 
-- [ ] Importer `FormsModule` dans `AppModule`
-- [ ] Lier des champs avec `[(ngModel)]`
-- [ ] Gérer l’envoi du formulaire avec `(ngSubmit)`
-- [ ] Ajouter des validations de base (`required`, `minlength`, etc.)
-- [ ] Afficher les erreurs de validation avec `*ngIf`
+- [x] Importer `FormsModule` dans `AppModule`
+- [x] Lier des champs avec `[(ngModel)]`
+- [x] Gérer l’envoi du formulaire avec `(ngSubmit)`
+- [x] Ajouter des validations de base (`required`, `minlength`, etc.)
+- [x] Afficher les erreurs de validation avec `*ngIf`
 
 ### Modules Angular
 
-- [ ] Créer un module personnalisé avec `ng generate module`
-- [ ] Comprendre `declarations`, `imports`, `exports`
+- [x] Créer un module personnalisé avec `ng generate module`
+- [x] Comprendre `declarations`, `imports`, `exports`
 - [ ] Réorganiser les composants dans différents modules
 
 ### Mini-exercice pratique
 
-- [ ] Créer un `UserFormComponent` avec un formulaire de création d’utilisateur :
-  - [ ] champs : prénom, nom, email
-  - [ ] bouton de validation avec affichage des données saisies
-  - [ ] affichage d’un message d’erreur si un champ est vide
+- [x] Créer un `UserFormComponent` avec un formulaire de création d’utilisateur :
+  - [x] champs : prénom, nom, email
+  - [x] bouton de validation avec affichage des données saisies
+  - [x] affichage d’un message d’erreur si un champ est vide
