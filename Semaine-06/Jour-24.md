@@ -4,19 +4,19 @@
 
 ### Routing et navigation
 
-- [ ] Créer et configurer `app-routing.module.ts`
-- [ ] Définir les routes de base
-- [ ] Ajouter `<router-outlet>` dans `app.component.html`
-- [ ] Naviguer avec `[routerLink]`
-- [ ] Ajouter une route avec paramètre (`:id`)
-- [ ] Récupérer un paramètre avec `ActivatedRoute`
+- [x] Créer et configurer `app-routing.module.ts`
+- [x] Définir les routes de base
+- [x] Ajouter `<router-outlet>` dans `app.component.html`
+- [x] Naviguer avec `[routerLink]`
+- [x] Ajouter une route avec paramètre (`:id`)
+- [x] Récupérer un paramètre avec `ActivatedRoute`
 
 ### Créer et utiliser un service Angular
 
-- [ ] Générer un service avec `ng generate service`
-- [ ] Comprendre le décorateur `@Injectable()`
-- [ ] Injecter un service dans un composant avec le constructeur
-- [ ] Centraliser des données (tableau, messages, etc.)
+- [x] Générer un service avec `ng generate service`
+- [x] Comprendre le décorateur `@Injectable()`
+- [x] Injecter un service dans un composant avec le constructeur
+- [x] Centraliser des données (tableau, messages, etc.)
 
 ### Injection de dépendances
 
