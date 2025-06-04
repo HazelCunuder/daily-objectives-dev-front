@@ -20,15 +20,15 @@
 
 ### Injection de dépendances
 
-- [ ] Comprendre le système d’injection Angular
-- [ ] Utiliser `providedIn: 'root'` pour un singleton global
-- [ ] Ajouter un service à un module spécifique si nécessaire
+- [x] Comprendre le système d’injection Angular
+- [x] Utiliser `providedIn: 'root'` pour un singleton global
+- [x] Ajouter un service à un module spécifique si nécessaire
 
 ### Structure avancée
 
-- [ ] Créer un composant enfant
-- [ ] Transmettre des données avec `@Input`
-- [ ] Réagir à des événements avec `@Output` + `EventEmitter`
+- [x] Créer un composant enfant
+- [x] Transmettre des données avec `@Input`
+- [x] Réagir à des événements avec `@Output` + `EventEmitter`
 
 ### Mini-exercice pratique
 
