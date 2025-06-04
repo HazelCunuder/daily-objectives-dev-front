@@ -32,6 +32,6 @@
 
 ### Mini-exercice pratique
 
-- [ ] Créer un `ProductService` et deux composants :
+- [x] Créer un `ProductService` et deux composants :
   - ProductListComponent` affiche une liste de produits (depuis le service)
   - `ProductDetailsComponent` affiche le détail du produit (via route avec ID)
